@@ -6,7 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Praktikum.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e92edd4766fae7a4a8d8037e5421365b
+  - enabled: 1
+    path: Assets/Scenes/Air.unity
+    guid: 66c80437247c1ef4f81d10eaf89a4fd7
+  - enabled: 1
+    path: Assets/Scenes/Langkah.unity
+    guid: b461d77af8255bc4cb9cd8aeedc6f091
+  - enabled: 1
+    path: Assets/Scenes/Tembak.unity
+    guid: fe7604e12cbc504498954fec597d4f04
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1704db9f25192e4698d08a69db1a9c3, type: 2}
